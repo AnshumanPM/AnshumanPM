@@ -1,16 +1,14 @@
-<h1 align="center">Hi There, I'm AnshumanPM</h1>
-<h3 align="center">From India 🇮🇳</h3>
-
+## 💫 About Me:
+• Anshuman Prasad Mahanta<br>• 16<br>• 24/03/2006<br>• Student
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanpm&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanpm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshumanpm" alt="anshumanpm" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AnshumanPM&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanPM&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanpm&show_icons=true&locale=en" alt="anshumanpm" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshumanpm&show_icons=true&locale=en&layout=compact" alt="anshumanpm" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnshumanPM&theme=flat&no-frame=false&no-bg=false&margin-w=4)
