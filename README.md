@@ -1,5 +1,5 @@
 ## 💫 About Me:
-• Anshuman Prasad Mahanta<br>• 19<br>• Student
+• Anshuman Prasad Mahanta<br>• 20<br>• Student<br>• Full Stack AI Engineer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanpm&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanpm" /> </p>
 
 
