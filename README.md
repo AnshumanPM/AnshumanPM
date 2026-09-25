@@ -22,3 +22,5 @@ I enjoy building web applications and working with AI.
 * [Instagram](https://www.instagram.com/anshuman_p_m)
 
 Thanks for stopping by.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumanpm&label=Profile%20views&color=0e75b6&style=flat" alt="anshumanpm" /> </p>
